@@ -24,3 +24,7 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=furiousluck&show_icons=true&locale=en" alt="furiousluck" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=furiousluck&" alt="furiousluck" /></p>
+
+<!-- ![](https://leetcard.jacoblin.cool/jacoblincool?theme=unicorn) -->
+<!-- ![](https://leetcard.jacoblin.cool/jacoblincool?theme=light,unicorn) -->
+![Leetcode Stats](https://leetcard.jacoblin.cool/furiousluck?ext=contest)
