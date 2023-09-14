@@ -27,4 +27,4 @@
 
 <!-- ![](https://leetcard.jacoblin.cool/jacoblincool?theme=unicorn) -->
 <!-- ![](https://leetcard.jacoblin.cool/jacoblincool?theme=light,unicorn) -->
-![Leetcode Stats](https://leetcard.jacoblin.cool/furiousluck?ext=contest)
+![Leetcode Stats](https://leetcard.jacoblin.cool/furiousluckIsHere?ext=contest)
