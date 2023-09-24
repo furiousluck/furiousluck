@@ -1,13 +1,11 @@
 <h1 align="center">Hi 👋, I'm Adarsh Singh</h1>
-<h3 align="center">Just trying to make it :)</h3>
+<h3 align="center">Hello there :)</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=furiousluck&label=Profile%20views&color=0e75b6&style=flat" alt="furiousluck" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=furiousluck" alt="furiousluck" /></a> </p>
 
-- 🔭 I’m currently working on [LeetCode Stalker](https://github.com/furiousluck/LeetCode_Stalker)
-
-- 🌱 I’m currently learning **Android Development**
+- 🌱 I’m currently learning **BackEnd Development**
 
 - 💬 Ask me about **android and research project which i have been working on for some time.**
 
